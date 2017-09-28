@@ -74,6 +74,7 @@
     <Content Include="external page\Resume_Nicholas Giusti.pdf" />
     <None Include="packages.config" />
     <Content Include="img\projects\DiceGame.png" />
+    <Content Include="img\projects\pong.png" />
     <Content Include="scss\style.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

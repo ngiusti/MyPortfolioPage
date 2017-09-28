@@ -28,10 +28,30 @@
         cursor: pointer;
     }
 
+
+
 @media (min-width: 1199px) {
     .port-item {
         padding: 3em !important;
     }
+}
+
+@media (min-width: 0) and (max-width: 767px) {
+    .center-picture {
+        display: block;
+        margin: auto;
+        width: 40%;
+    }
+
+    .icon{
+        margin-left:2%;
+        font-size:80%;
+    }
+
+    .port-item{
+        font-size:50%;
+    }
+
 }
 
 .img-normalize{
@@ -58,6 +78,7 @@ body {
     color:#808080;
     transition: color 0.5s, font-size 0.5s;
     cursor:pointer;
+    font-size:150%;
 }
 
     .fb-icon:hover {

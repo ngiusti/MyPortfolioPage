@@ -34,6 +34,16 @@
     }
 }
 
+.img-normalize{
+    height:200px;
+    width:auto;
+}
+
+.img-circle {
+
+    border-radius: 50%;
+}
+
 body {
     background-image: url('../img/White-Texture.jpg');
 }
@@ -68,3 +78,5 @@ body {
 .resume-text:hover{
     color:#1a1a1a;
 }
+
+

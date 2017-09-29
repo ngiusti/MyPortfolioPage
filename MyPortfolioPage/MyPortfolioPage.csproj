@@ -71,11 +71,11 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <Content Include="fonts\FontAwesome.otf" />
-    <Content Include="external page\Resume_Nicholas Giusti.pdf" />
+    <Content Include="external page\Resume_Nicholas_Giusti.pdf" />
     <None Include="packages.config" />
+    <Content Include="img\people\Heather2.jpg" />
     <Content Include="img\projects\DiceGame.png" />
     <Content Include="img\projects\pong.png" />
-    <Content Include="scss\style.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -89,7 +89,6 @@
     <Content Include="css\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="img\people\Carrie.jpg" />
-    <Content Include="img\people\Heather.jpg" />
     <Content Include="img\people\Kyle.jpg" />
     <Content Include="img\people\me.jpg" />
     <Content Include="img\people\Shay.jpg" />

@@ -74,6 +74,7 @@
     <Content Include="external page\Resume_Nicholas_Giusti.pdf" />
     <None Include="packages.config" />
     <Content Include="img\people\Heather2.jpg" />
+    <Content Include="img\projects\ComingSoon.png" />
     <Content Include="img\projects\DiceGame.png" />
     <Content Include="img\projects\pong.png" />
     <None Include="Web.Debug.config">

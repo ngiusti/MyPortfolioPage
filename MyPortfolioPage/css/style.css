@@ -106,3 +106,12 @@ body {
     padding-right:5px;
     padding-left:5px;
 }
+
+.center-picture {
+    -webkit-filter: grayscale(100%);
+    transition: all 0.5s;
+}
+
+    .center-picture:hover {
+        -webkit-filter: grayscale(0%);
+    }
